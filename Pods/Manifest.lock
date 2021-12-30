@@ -1,0 +1,16 @@
+PODS:
+  - PaddingLabel (1.2)
+
+DEPENDENCIES:
+  - PaddingLabel (= 1.2)
+
+SPEC REPOS:
+  trunk:
+    - PaddingLabel
+
+SPEC CHECKSUMS:
+  PaddingLabel: 21ab5282c780366018b04c30e3920c2f55a2fd14
+
+PODFILE CHECKSUM: 3619b5f48cac2526a9403057b7d309fda07cf451
+
+COCOAPODS: 1.8.4
